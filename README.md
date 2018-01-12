@@ -4,7 +4,7 @@ https://talorlik.github.io/ng5
 
 # Deployment to GitHub
 
-1. ng build --prod --env=prod --base-href https://talorlik.githib.io/ng5/
+1. ng build --prod --env=prod --base-href https://talorlik.github.io/ng5/
 2. ngh
 
 # Ng5
